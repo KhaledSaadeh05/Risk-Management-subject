@@ -6,9 +6,6 @@
 > A cybersecurity risk management and threat analysis project for critical
 > infrastructure systems, smart cities, IoT environments, and cloud security.
 
-![Course](https://img.shields.io/badge/Course-Risk%20Management-1f3864)
-![Status](https://img.shields.io/badge/Status-Completed-2e75b6)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
